@@ -3,7 +3,7 @@
 <!-- Animated Wave Top -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=150&section=header" alt="Wave" width="100%"/>
 
-🖼️ Image Processing Backend Service
+####🖼️ Image Processing Backend Service
 Cloudinary-like Image Transformation API
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
